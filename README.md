@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Quan_ly_dan_cu_CDS
+
 Hệ thống quản lý dân cư và tương tác cộng đồng UBND Xã
 =======
 <h2 align="center"> 
