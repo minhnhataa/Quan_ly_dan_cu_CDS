@@ -1,5 +1,4 @@
 
-Hệ thống quản lý dân cư và tương tác cộng đồng UBND Xã
 =======
 <h2 align="center"> 
      <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin"> 
@@ -7,7 +6,7 @@ Hệ thống quản lý dân cư và tương tác cộng đồng UBND Xã
      </a> 
  </h2> 
  <h2 align="center"> 
-     HỆ THỐNG QUẢN LÝ HÀNH CHÍNH XÃ (Commune Administration Portal) 
+    HỆ THỐNG QUẢN LÝ DÂN CƯ VÀ TƯƠNG TÁC CỘNG ĐỒNG UBND XÃXÃ
  </h2> 
  <div align="center"> 
      <p align="center"> 
@@ -165,4 +164,3 @@ Hệ thống quản lý dân cư và tương tác cộng đồng UBND Xã
 - Kho mã nguồn chính nằm ở thư mục gốc (Flask app: `app.py`, `main.py`, blueprints trong `blueprints/`, templates trong `templates/`).  
 - Nếu gặp lỗi khi xuất dữ liệu do nhân khẩu chưa gắn hộ, hệ thống đã xử lý null an toàn trong `utils.py` (hàm `export_residents_to_csv/xml`).  
 - Với UI Bootstrap 5, bảo đảm các nút dropdown dùng `data-bs-toggle="dropdown"` và đã nạp `bootstrap.bundle.min.js` trong `templates/admin/base_admin.html`.
->>>>>>> b6a9d09d (update1)
