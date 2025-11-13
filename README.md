@@ -55,7 +55,7 @@
  
  --- 
  
- ## 3. Hình ảnh các chức năng 
+ ## 3. Hình ảnh một số các chức năng
  <p align="center"> 
    <img src="images/dkquantri.jpg" alt="Bảng điều khiển quản trị" width="1000"/> 
    <br/> 
