@@ -59,33 +59,27 @@
  
  ## 3. Hình ảnh các chức năng 
  <p align="center"> 
-   <img src="images/admin_dashboard.png" alt="Bảng điều khiển quản trị" width="1000"/> 
+   <img src="images/dkquantri.jpg" alt="Bảng điều khiển quản trị" width="1000"/> 
    <br/> 
    <em>Hình 1. 🖥️ Bảng điều khiển quản trị</em><br/> 
  </p> 
  --- 
  <p align="center"> 
-   <img src="images/population.png" alt="Quản lý dân cư" width="1000"/> 
+   <img src="images/quanlydancu.jpg" alt="Quản lý dân cư" width="1000"/> 
    <br/> 
    <em>Hình 2. 🖥️ Quản lý dân cư (tìm kiếm, lọc, xuất CSV/XML)</em><br/> 
  </p> 
  --- 
  <p align="center"> 
-   <img src="images/households.png" alt="Quản lý hộ gia đình" width="1000"/> 
+   <img src="images/quanlyho" alt="Quản lý hộ gia đình" width="1000"/> 
    <br/> 
    <em>Hình 3. 🖥️ Quản lý hộ gia đình</em><br/> 
  </p> 
  --- 
  <p align="center"> 
-   <img src="images/document_requests.png" alt="Yêu cầu giấy tờ" width="1000"/> 
+   <img src="images/phanhoinguoidan.jpg" alt="Phản hồi người dân" width="1000"/> 
    <br/> 
-   <em>Hình 4. 🖥️ Yêu cầu giấy tờ, theo dõi trạng thái</em><br/> 
- </p> 
- --- 
- <p align="center"> 
-   <img src="images/feedback.png" alt="Phản hồi người dân" width="1000"/> 
-   <br/> 
-   <em>Hình 5. 🖥️ Phản hồi người dân và phân loại mức độ</em><br/> 
+   <em>Hình 4. 🖥️ Phản hồi người dân và phân loại mức độ</em><br/> 
  </p> 
  
  (Lưu ý: Thêm các ảnh minh họa vào thư mục `images/` để hiển thị.)
