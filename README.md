@@ -4,7 +4,7 @@
      </a> 
  </h2> 
  <h2 align="center"> 
-    HỆ THỐNG QUẢN LÝ DÂN CƯ VÀ TƯƠNG TÁC CỘNG ĐỒNG UBND XÃXÃ
+    HỆ THỐNG QUẢN LÝ DÂN CƯ VÀ TƯƠNG TÁC CỘNG ĐỒNG UBND XÃ
  </h2> 
  <div align="center"> 
      <p align="center"> 
