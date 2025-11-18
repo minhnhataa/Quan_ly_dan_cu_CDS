@@ -141,9 +141,9 @@
  --- 
  
  ## 6. Thông tin liên hệ  
- Họ tên: Hoàng Mạnh Linh.  
+ Họ tên: Đậu Cao Minh Nhật.  
  Lớp: CNTT 16-03.  
- Email: linhmanhhoang03@gmail.com.  
+ Email: daucaominhnhat@gmail.com.  
  
  © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved. 
  
